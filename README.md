@@ -5,12 +5,11 @@ Peer-graded Assignment: Capstone Project - Weekly billable Labour hour predictio
 Shruti Chandra
 IBM Data Science Professional
 
-1) Introduction/Business Problem
-Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
+1) A description of the problem and a discussion of the background.
 
 Idea is to be able to predict weekly billable lobor hours of an employee considering that he/she works nine hours a day. Prediction should be into consideration reduced hours due to plannned and unplanned vacations and public holidays which would reduce the labour hours accordingly.
 
-2) Downloading and Prepping Data
+2) A description of the data and how it will be used to solve the problem
 
 Data contains weekly labour hours for all the employees since 2018. using that we will predict weekly average billable hours for 2020. This would help a service sector organization with their better predcition on costs and profits.
 
