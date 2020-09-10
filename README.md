@@ -5,8 +5,6 @@ Peer-graded Assignment: Capstone Project - Weekly billable Labour hour predictio
 Shruti Chandra
 IBM Data Science Professional
 
-Now that you have been equipped with the skills and the tools to use location data to explore a geographical location, over the course of two weeks, you will have the opportunity to be as creative as you want and come up with an idea to leverage the Foursquare location data to explore or compare neighborhoods or cities of your choice or to come up with a problem that you can use the Foursquare location data to solve.
-
 1) Introduction/Business Problem
 Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. Remember that data science problems always target an audience and are meant to help a group of stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about your problem.
 
